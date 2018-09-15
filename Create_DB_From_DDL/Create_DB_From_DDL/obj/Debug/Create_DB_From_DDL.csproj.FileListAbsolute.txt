@@ -1,0 +1,7 @@
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\bin\Debug\Create_DB_From_DDL.exe.config
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\bin\Debug\Create_DB_From_DDL.exe
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\bin\Debug\Create_DB_From_DDL.pdb
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\obj\Debug\Create_DB_From_DDL.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\obj\Debug\Create_DB_From_DDL.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\obj\Debug\Create_DB_From_DDL.exe
+C:\Users\Danny\Desktop\github\Create_DB_From_DDL\Create_DB_From_DDL\obj\Debug\Create_DB_From_DDL.pdb

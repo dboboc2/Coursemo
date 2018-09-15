@@ -1,0 +1,10 @@
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Coursemo.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Coursemo.Properties.Resources.resources
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Coursemo.csproj.GenerateResource.cache
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Coursemo.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\bin\Debug\Coursemo.exe.config
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\bin\Debug\Coursemo.exe
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\bin\Debug\Coursemo.pdb
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Coursemo.exe
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Coursemo.pdb
+C:\Users\Danny\Desktop\github\Coursemo\Coursemo\obj\Debug\Project2.Form1.resources
